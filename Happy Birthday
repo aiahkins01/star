@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Emerald Faith A. Mendez">
+    <meta name="date-submitted" content="21-08-2024">
+    <meta name="keywords" content="Happy Birthday, Isay">
+    <title>Happy Birthday Isay!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0e68c;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #ff6347;
+            font-size: 3em;
+        }
+
+        p {
+            color: #4682b4;
+            font-size: 1.5em;
+        }
+
+        .
